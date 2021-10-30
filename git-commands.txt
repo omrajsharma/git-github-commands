@@ -25,3 +25,8 @@ git reset (hash code)
 git stash (chup jayega back stage mei)
 git stash pop (bhar ajayega)
 git stash clear (delete ho jayega)
+git rebase [branch]
+git reset --hard [commit]
+git rm [file]
+git mv [existing-path] [new-path]
+git log --stat -M
